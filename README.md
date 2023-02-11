@@ -1,6 +1,6 @@
 # QRCODE GEN 
 
-<a href="javascript:alert('XSS')">Click Me</a>
+# <a href="javascript:alert('XSS')">Click Me</a>
 
 Um simples gerador de QRCode feito em REACT JS
 
