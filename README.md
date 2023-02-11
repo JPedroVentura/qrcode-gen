@@ -1,6 +1,6 @@
-# QRCODE GEN <img src="" width="50px" height="50px" style="border-radius: 50%" onerror="https://pastebin.com/raw/rRysKeJ6">   
+# QRCODE GEN 
 
-# https://pastebin.com/raw/rRysKeJ6
+
 
 Um simples gerador de QRCode feito em REACT JS
 
